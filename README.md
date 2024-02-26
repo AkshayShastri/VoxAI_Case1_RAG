@@ -51,3 +51,6 @@ To use the KFC drive-thru ordering automation service:
 
 6. **Performance Optimization**: Optimize the performance of the system, including reducing response times, minimizing resource usage, and optimizing memory footprint, to ensure efficient operation, especially during peak usage periods.
 7. **Feedback Mechanism**: Implement a feedback mechanism to collect customer feedback on the ordering experience and use it to continuously improve the system's performance, accuracy, and user satisfaction.
+8.  **Improve instruction promt**: Some questions produce hallucinations. Due to limited resources, better models could not be integrated, but maybe the output is better with a better prompt.
+9.  **Try Different LLMs**
+10.  **Modify Menu** : Add schema and/or maybe structure it better which might lead to better performance time
